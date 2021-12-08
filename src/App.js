@@ -11,7 +11,6 @@ function App() {
       <Main />
       <Footer />
       <h1>Hello</h1>
-      <Button variant="contained">Hello World</Button>;
     </div>
   );
 }

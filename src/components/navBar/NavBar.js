@@ -3,7 +3,11 @@ import styles from "./NavBar.module.css";
 const NavBar = () => {
   return (
     <div className={styles.NavBar}>
-      <h1>NavBar in Heroo</h1>
+      <ul>
+        <li>Videos</li>
+        <li>about</li>
+        <li>Contact</li>
+      </ul>
     </div>
   );
 };
