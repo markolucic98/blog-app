@@ -6,6 +6,7 @@ const ButtonComponent = () => {
     <>
       <Button
         variant="contained"
+        href="#bottom"
         style={{
           background: "",
           padding: "15px 35px",

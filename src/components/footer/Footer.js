@@ -3,7 +3,7 @@ import styles from "./Footer.module.css";
 import Subscribe from "../button/Subscribe";
 const Footer = () => {
   return (
-    <div className={styles.footer}>
+    <div id="contakt" className={styles.footer}>
       <div className={styles.footer1}>
         <div className={styles.footerLeft}>
           <h2>Do you want to get our latest updates?</h2>

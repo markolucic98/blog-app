@@ -4,9 +4,15 @@ const NavBar = () => {
   return (
     <div className={styles.NavBar}>
       <ul>
-        <li>Videos</li>
-        <li>about</li>
-        <li>Contact</li>
+        <li>
+          <a href="#">Video</a>
+        </li>
+        <li>
+          <a href="#">About</a>
+        </li>
+        <li>
+          <a href="#contakt">Contakt</a>
+        </li>
       </ul>
     </div>
   );
