@@ -65,6 +65,7 @@ const Main = () => {
           <span>2</span>
           <span>3</span>
           <span>4</span>
+          <span>&#62;</span>
         </div>
       </div>
     </div>

@@ -10,7 +10,6 @@ function App() {
       <Heroo />
       <Main />
       <Footer />
-      <h1>Hello</h1>
     </div>
   );
 }
